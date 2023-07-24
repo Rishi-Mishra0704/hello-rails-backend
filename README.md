@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello-react-rails</b></h3>
+  <h3><b>Hello-rails-backend</b></h3>
 
 </div>
 
@@ -27,11 +27,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Hello_rails_react] <a name="about-project"></a>
+# 📖 [Hello_rails_backend] <a name="about-project"></a>
 
->  This is a web app that generates a random greeting message. It is built with React and Ruby on Rails.
+>  This app is the backend for API that generates random quotes. It is built with Ruby on Rails and PostgreSQL. It is a part of the Hello-rails-react project. The frontend is built with React.
 
-**[Hello_rails_react]**
+**[Hello_rails_backend]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,7 +40,7 @@
 <details>
 <summary>Client</summary>
 <ul>
-<li>React</li>
+<li>N/A</li>
  </ul>
 <summary>Server</summary>
 <ul>
@@ -57,8 +57,7 @@
 
 <ul>
 <li>Gitflow execution</li>
-<li>React and Ruby on Rails</li>
-<li>Generate random quotes</li>
+<li>API to generate random quotes</li>
 
 
 </ul>
@@ -121,8 +120,7 @@ cd 'project name'
 ## 🔭 Future Features <a name="future-features"></a>
 
 <ul>
-  <li>Add better Navigation</li>
-  <li>Better UX</li>
+  <li>More endpoints</li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -143,7 +141,7 @@ Please give a ⭐️ if you like this project
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Gregoire Vella for his amazing design which was the inspiration for this project.Please check out his work at https://www.behance.net/gregoirevella
+I would like to thank Microverse for this opportunity that they gave me to build this amazing project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
